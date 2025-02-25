@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # first-extension README
 
 This is the README for your extension "first-extension". After writing up a brief description, we recommend including the following sections.
@@ -69,3 +70,7 @@ You can author your README using Visual Studio Code. Here are some useful editor
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+=======
+# Test_Extension
+Demo Extension
+>>>>>>> 997c42cc777dba2ec65ede85f1c097d681d8e478
